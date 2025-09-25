@@ -11,7 +11,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E094337F2E85303F00853F8F /* MovieApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MovieApp.app; path = /Users/ahmedeltrass/Desktop/MovieApp/build/Debug/MovieApp.app; sourceTree = "<absolute>"; };
+		E094345A2E8545D500853F8F /* MovieApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -38,6 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				E077548F2E83211800CE0FC8 /* MovieApp */,
+				E094345A2E8545D500853F8F /* MovieApp.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,7 +65,7 @@
 				E06016B82E8473F000962355 /* Kingfisher */,
 			);
 			productName = MovieApp;
-			productReference = E094337F2E85303F00853F8F /* MovieApp.app */;
+			productReference = E094345A2E8545D500853F8F /* MovieApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

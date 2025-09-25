@@ -27,7 +27,7 @@ struct HomeScreen: View {
 
                 //  Main content (carousel / error / empty message)
                 VStack(spacing: 20) {
-                    Spacer().frame(height: 120) // space for tab
+                    Spacer().frame(height: 200) // space for tab
 
                     if let movies = viewModel.movies[selectedTab], !movies.isEmpty {
                         MovieCarouselView(
